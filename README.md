@@ -15,6 +15,7 @@
 
 - ★★★ Golang、Solidty
 - ★★☆ JavaScript、C
+- ★☆☆ Python 
 
 ## Contact
 
