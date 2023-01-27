@@ -23,4 +23,5 @@
 - :link: Twitter: https://twitter.com/Dessert77384072
 - :mag_right: Discord : Dazso#0947
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DessertHeart&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DessertHeart&show_icons=true&theme=merko)
+
