@@ -1,5 +1,5 @@
  <center>
-     <h1>:star2:Welcome to Dazso's Git:star2:</h1>
+     <h1>:star2:Welcome to Dezso's Git:star2:</h1>
  </center>
 
  ## Details
