@@ -4,7 +4,7 @@
 
  ## Details
 
- - A Web3 Backend & Smart Contract Developer From :cn:
+ - A Backend & Blockchain Developer From :cn:
 
 ## Background
 
