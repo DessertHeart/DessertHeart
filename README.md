@@ -14,7 +14,7 @@
 ## Skills
 
 - ★★★ Golang、Solidty
-- ★★☆ Typescript、Python、C 
+- ★★☆ C++、Typescript、Python 
 
 ## Contact
 
