@@ -20,7 +20,6 @@
 
 -  🔎 Telegram: https://t.me/sweetHeartDessert
 - 🔎 Twitter: https://twitter.com/dezso1212
-- :mag_right: Discord : dezso1212
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DessertHeart&show_icons=true&theme=merko)
 
